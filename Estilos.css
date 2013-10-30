@@ -1,0 +1,54 @@
+body{
+    background-image : url("circulos_verdes.jpg");
+	background-repeat: no-repeat;
+}
+h1{
+    color : #FFFFFF;
+}
+fieldset{
+    width : 27%;
+	color : #000000;
+	background-image : url("Fondo.jpg");
+}
+legend{
+    color : #FFFFFF;
+	background: #756F77;
+}
+
+#body2{
+    background-image : url("25401.jpg");
+	background-repeat: no-repeat;
+}
+table{
+    color : #FFFFFF;
+    border : 3px #000000 solid;
+	width : 65%;
+	margin-left : 20%;
+    margin-top : 2%;
+}
+td{
+    border : 2px #000000 solid;
+}
+th{
+    border : 2px #000000 solid;
+	background-color : #756F77
+}
+
+a{
+    color : #000000;
+}
+#insert{
+    margin-left : 50%; 
+}
+#fd1{
+    width : 35%;
+	color: #FFFFFF;
+	background-image : url("abstracto elegante.jpg");
+}
+#lgnd1{
+    background: #000000;
+	color : #FFFFFF;
+}
+#a2{
+    color : #FFFFFF;
+}
